@@ -4,7 +4,7 @@ Simple Radar made in DirectX9
 
 things to improve:
 
-- World To Radar Calculation. SOmetimes the Distance between the Player and Zombie are not correct. 
+- World To Radar Calculation. Sometimes the Distance between the Player and Zombie are not correct. 
 
 downloads:
 
