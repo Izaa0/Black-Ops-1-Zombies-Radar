@@ -6,7 +6,7 @@ offsets:
 
 entitylist 1: BGamerT5.exe+ 0x17FBD10
 
-gap between each entity: 0x118
+gap between each entity: 0x8C
 health: 0x184
 vecOrigin: 0x18
 
