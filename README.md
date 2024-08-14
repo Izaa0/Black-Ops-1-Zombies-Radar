@@ -12,3 +12,4 @@ downloads:
 
 credits:
 - Guided Hacking: https://guidedhacking.com/
+- Sneaky Kitty Game Dev: https://www.youtube.com/@SneakyKittyGameDev
